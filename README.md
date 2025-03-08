@@ -7,33 +7,33 @@ Version control is a system that helps track and manage changes to code or docum
 
 **Fundamental Concepts of Version Control:**
 
-**Repository (Repo):** A storage location where the code and all its history (changes) are kept. It contains all the versions of the project and the associated files.
+Repository (Repo): A storage location where the code and all its history (changes) are kept. It contains all the versions of the project and the associated files.
 
-**Commit:** A snapshot of the project at a specific point in time. Each commit represents a change made to the project, typically with a description explaining what was altered.
+Commit: A snapshot of the project at a specific point in time. Each commit represents a change made to the project, typically with a description explaining what was altered.
 
-**Branching:** Branches allow developers to work on different features or fixes in isolation without affecting the main version of the project. The main branch is often called main or master, while feature branches or bug-fix branches are used for development work.
+Branching: Branches allow developers to work on different features or fixes in isolation without affecting the main version of the project. The main branch is often called main or master, while feature branches or bug-fix branches are used for development work.
 
-**Merging:** The process of integrating changes from one branch into another. For example, once a feature branch is completed, it can be merged back into the main branch.
+Merging: The process of integrating changes from one branch into another. For example, once a feature branch is completed, it can be merged back into the main branch.
 Pull Requests (PRs): A request to merge changes from one branch to another, typically after reviewing and testing the changes. PRs are common in collaborative development workflows.
 
-**Conflict Resolution:** Sometimes, multiple developers make changes to the same part of a file or project. Version control systems help identify these conflicts and allow developers to manually resolve them before merging changes.
+Conflict Resolution: Sometimes, multiple developers make changes to the same part of a file or project. Version control systems help identify these conflicts and allow developers to manually resolve them before merging changes.
 
-**History and Rollbacks:** Version control keeps track of every change made, allowing developers to view the history of modifications and even roll back to previous versions if necessary.
+History and Rollbacks: Version control keeps track of every change made, allowing developers to view the history of modifications and even roll back to previous versions if necessary.
 
 
 **Why GitHub is Popular?:**
 GitHub is a web-based platform that uses Git (a distributed version control system) to manage code and projects. It’s widely used for several reasons:
 
-**Collaboration:** GitHub simplifies collaboration by allowing multiple developers to work on different parts of the project, track changes, and resolve conflicts.
+Collaboration: GitHub simplifies collaboration by allowing multiple developers to work on different parts of the project, track changes, and resolve conflicts.
 
-**Version Control with Git:** GitHub is built on Git, which provides powerful version control features such as branching, committing, and merging changes, allowing teams to work together seamlessly on the same codebase.
+Version Control with Git: GitHub is built on Git, which provides powerful version control features such as branching, committing, and merging changes, allowing teams to work together seamlessly on the same codebase.
 
-**Cloud Hosting:** GitHub hosts repositories in the cloud, making it easy to access the code from anywhere, collaborate with others, and share your code publicly or privately.
+Cloud Hosting: GitHub hosts repositories in the cloud, making it easy to access the code from anywhere, collaborate with others, and share your code publicly or privately.
 Pull Requests and Code Review: GitHub’s pull request system enables teams to review and discuss code before it’s merged, ensuring that new features or bug fixes are properly vetted.
 
-**Continuous Integration/Continuous Deployment (CI/CD):** GitHub integrates with CI/CD tools, automating tests and deployment, which streamlines development and helps ensure code is always in a deployable state.
+Continuous Integration/Continuous Deployment (CI/CD): GitHub integrates with CI/CD tools, automating tests and deployment, which streamlines development and helps ensure code is always in a deployable state.
 
-**GitHub Actions:** GitHub Actions allow users to automate workflows, like running tests or deploying code, directly within the GitHub platform.
+GitHub Actions: GitHub Actions allow users to automate workflows, like running tests or deploying code, directly within the GitHub platform.
 Community and Open Source: GitHub has a large, active community. Many open-source projects are hosted on GitHub, and developers can contribute to these projects or use them in their own work.
 
 **How Version Control Helps Maintain Project Integrity:**
